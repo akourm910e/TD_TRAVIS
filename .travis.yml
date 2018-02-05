@@ -1,0 +1,6 @@
+l a n g u a g e : python
+python :
+− "2.6"
+− "3.6"
+script :
+− pytest
